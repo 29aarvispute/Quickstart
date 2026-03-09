@@ -43,7 +43,7 @@ public class NicoTeleOp extends LinearOpMode {
             frontRightMotor.setPower(frontRightPower);
             backRightMotor.setPower(backRightPower);
 
-            // hello there maurosdfghj
+            // hello there maurosdfghjghj
         }
     }
 }
